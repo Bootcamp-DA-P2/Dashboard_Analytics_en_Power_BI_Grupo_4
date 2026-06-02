@@ -242,7 +242,7 @@ Ofrecer una visión general del mercado.
 ### Visualizaciones
 
 * Tarjetas KPI.
-* Gráficos temporales.
+* Gráficos temporales/Demanda
 * Comparativas por ciudad.
 
 ---
