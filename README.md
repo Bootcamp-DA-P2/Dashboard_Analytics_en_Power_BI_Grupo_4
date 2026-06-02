@@ -399,6 +399,7 @@ Dashboard_Analytics_en_Power_BI_Grupo_4/
 │
 ├── documents/
 │   ├── Dashboard_PowerBI_Grupo4.pdf
+│   ├── Informe_ejecutivo_airbnb.pdf
 │
 ├── images/
 │   ├── 1_KPIs-y-Analisis-Temporal_Demanda
