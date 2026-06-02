@@ -391,91 +391,26 @@ El análisis permitió identificar:
 # 📁 Estructura del Repositorio
 
 ```text
-PROYECTO-AIRBNB-POWERBI/
+Dashboard_Analytics_en_Power_BI_Grupo_4/
 │
-├── data/
-│   ├── raw/
-│   │   └── all_cities_airbnb.csv
-│   │
-│   └── processed/
-│       └── airbnb_cleaned.csv
+├── assets/
+│   ├── lila_theme
+│   ├── marron_theme
 │
-├── dashboard/
-│   ├── proyecto_power_bi.pbix
-│   └── README_dashboard.md
+├── documents/
+│   ├── Dashboard_PowerBI_Grupo4.pdf
 │
 ├── images/
-│   ├── dashboard_executive.png
-│   ├── dashboard_market.png
-│   ├── dashboard_geo.png
-│   └── data_model.png
+│   ├── 1_KPIs-y-Analisis-Temporal_Demanda
+│   ├── 2_Analisis-de-Oferta-y-Negocio
+│   ├── 3_Mapas-y Analisis-Avanzados
 │
-├── documentation/
-│   ├── memoria_proyecto.pdf
-│   ├── diccionario_datos.xlsx
-│   └── informe_ejecutivo.pdf
+├── proyecto_power_bi.pbix
 │
-├── README.md
 ├── .gitignore
-└── requirements.txt
+├── LICENSE
+└── README.md
 ```
-
----
-
-## 📂 Descripción de Carpetas y Archivos
-
----
-
-### 📁 dashboard/
-
-Contiene el archivo principal de Power BI.
-
-#### proyecto_power_bi.pbix
-
-Archivo principal del proyecto que incluye:
-
-- Modelo de datos.
-- Transformaciones Power Query.
-- Medidas DAX.
-- Relaciones.
-- Visualizaciones.
-- Dashboard final.
-
----
-
-### 📁 documentation/
-
-
-#### informe_ejecutivo.pdf
-
----
-
-### 📄 README.md
-
-Documentación principal del repositorio.
-
-Incluye:
-
-- Objetivos.
-- Metodología.
-- Arquitectura.
-- Modelado.
-- Dashboard.
-- Insights.
-
----
-
-### 📄 .gitignore
-
-Control de archivos excluidos del repositorio.
-
----
-
-### 📄 requirements.txt
-
-Dependencias necesarias para reproducir procesos auxiliares en Python, si existen.
-
-
 ---
 
 # 🚀 Mejoras Futuras
